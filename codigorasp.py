@@ -14,4 +14,4 @@ sudo bash build.sh
 
 ./minerd -h
 
-./minerd -a scrypt -o stratum+tcp://us.litecoinpool.org:3333 -u walletpiusm.minerUSM -p 1234
+./minerd -a scrypt -o stratum+tcp://us.litecoinpool.org:3333 -u #(NOMRE DE USUARIO).#(NOMBRE DE LA MAQUINA) -p #(CONTRASEÑA)
