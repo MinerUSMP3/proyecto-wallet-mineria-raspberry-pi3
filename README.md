@@ -48,3 +48,37 @@ BalenaEtcher: este programa servira para insertar el sistema operativo a nuestra
 5.  Estudio de resultado: https://www.youtube.com/watch?v=5DqtZkmA8_Y&ab_channel=FSCrypto
 
 6.  Explicacion de codigos (codigo final) : https://www.youtube.com/watch?v=8vXPPXmpsVk&ab_channel=Forat 
+
+### Manual de instalacion:
+
+1.- Descargar BalenaEtcher en tu Desktop.
+
+2,. Descargar desde la pagina de Raspberry el sistema operativo en tu Desktop-
+
+3.- Insertar en el pendrive la tarjeta SD.
+
+4.- Conectar el pendrive a tu Desktop.
+
+5.- Abrir BalemaEtcher y comenzar a booteear el file(ISO) descargado anteriormente desde Rspberry.
+
+6.- Despues de haber booteado la tarjeta SD, rretirarla e intalarla en la Raspberry Pi3.
+
+7.- Conectar los materiales requeridos a la Raspberry (cables, teclado y mouse).
+
+8.- La Raspberry iniciara automaticamente con su sitema operativo ya instalado.
+
+9.- Abrir la terminal n la Raspberry e iniciar el codigo "sudo aptupdate"
+
+10.- iniciar el siguiente codigo "sudo aptupgrade".
+
+11.- Con este codigo ya tedremos nuestra Raspberry actuaizada totalmente.
+
+12.- Ahora podremos iniciar nuestro codigo anclado al git hub, sin tener error alguno.
+
+13.- en nuestra Desktop sera neesario crearnos una cuenta en [litecoinpool](https://www.litecoinpool.org/account) y una cuenta en [freewallet](https://app.freewallet.org/auth/pin-check)
+
+14.- Posteriormente en litecoinpool tendremos que crearnos un usuario que posteriormente ira en nuestro codigo en la ultima linea.
+
+
+
+
