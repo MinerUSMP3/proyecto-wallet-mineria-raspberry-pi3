@@ -24,9 +24,15 @@ Ratón (USB).
 
 Teclado (USB).
 
+Pendrive (Tarjeta SD).
+
 2.-OPCIONAL:
 
 Cable Ethernet (LAN).
+
+2.- Programas necesarios:
+
+BalenaEtcher: este programa servira para insertar el sistema operativo a nuestra tarjeta Micro SD. [BalenaEtcher](https://etcher.balena.io/)
 
 
 **URL DE REFERENCIAS**
