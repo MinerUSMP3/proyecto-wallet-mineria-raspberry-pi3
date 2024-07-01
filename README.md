@@ -1,6 +1,6 @@
-#**Proyecto MINERPI3**
+# Proyecto MINERPI3
 
-##***Funcionalidad/enfoque***
+## Funcionalidad/enfoque
 
 A) EL proyecto tiene un enfoque hacia las **nuevas** tecnologías y las **nuevas** formaas en la que se esta invirtiendo y convirtiendo el dinero.
 
