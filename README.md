@@ -26,8 +26,7 @@ Teclado (USB).
 
 2.-OPCIONAL:
 
-Cable Ethernet (LAN).2.
-
+Cable Ethernet (LAN).
 
 
 **URL DE REFERENCIAS**
@@ -39,3 +38,7 @@ Cable Ethernet (LAN).2.
 3. Metodos de instlaciones: https://hardzone.es/tutoriales/rendimiento/raspberry-pi-minar-criptomonedas-stacking/
 
 4.  Videos explicativos: https://www.youtube.com/watch?v=EsnozKtdMPg&ab_channel=Sam
+
+5.  Estudio de resultado: https://www.youtube.com/watch?v=5DqtZkmA8_Y&ab_channel=FSCrypto
+
+6.  Explicacion de codigos (codigo final) : https://www.youtube.com/watch?v=8vXPPXmpsVk&ab_channel=Forat 
